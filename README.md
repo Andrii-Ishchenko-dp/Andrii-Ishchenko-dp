@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrii-Ishchenko-dp
-- 👀 I’m interested in ...
+- 👀 I’m interested in python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on company who make interesting projects
 - 📫 How to reach me @andrii_ishchenko
 
 <!---
